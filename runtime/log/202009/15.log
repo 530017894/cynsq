@@ -1,0 +1,1669 @@
+---------------------------------------------------------------
+
+[2020-09-15T10:14:19+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.230304s] [吞吐率：4.34req/s] [内存消耗：646.45kb] [文件加载：147]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]Use of undefined constant JSON_INVALID_UTF8_SUBSTITUTE - assumed 'JSON_INVALID_UTF8_SUBSTITUTE'[/data/statics/vendor/okstuff/phpnsq/src/phpnsq/Utils/Logging.php:20]
+---------------------------------------------------------------
+
+[2020-09-15T10:14:21+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.029896s] [吞吐率：33.45req/s] [内存消耗：646.45kb] [文件加载：147]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]Use of undefined constant JSON_INVALID_UTF8_SUBSTITUTE - assumed 'JSON_INVALID_UTF8_SUBSTITUTE'[/data/statics/vendor/okstuff/phpnsq/src/phpnsq/Utils/Logging.php:20]
+---------------------------------------------------------------
+
+[2020-09-15T10:14:23+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.033070s] [吞吐率：30.24req/s] [内存消耗：646.45kb] [文件加载：147]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]Use of undefined constant JSON_INVALID_UTF8_SUBSTITUTE - assumed 'JSON_INVALID_UTF8_SUBSTITUTE'[/data/statics/vendor/okstuff/phpnsq/src/phpnsq/Utils/Logging.php:20]
+---------------------------------------------------------------
+
+[2020-09-15T12:51:12+08:00] 127.0.0.1 GET statics/
+[运行时间：0.149088s] [吞吐率：6.71req/s] [内存消耗：849.22kb] [文件加载：119]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T12:51:27+08:00] 127.0.0.1 GET statics/index.php/admin/index/pushnsq
+[运行时间：0.033227s] [吞吐率：30.10req/s] [内存消耗：586.98kb] [文件加载：127]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T12:51:43+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.075179s] [吞吐率：13.30req/s] [内存消耗：682.91kb] [文件加载：151]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [1024]Failed to connect to 192.168.1.128 port 4161: Connection refused[/Users/mac/Downloads/chengya/statics/vendor/okstuff/phpnsq/src/phpnsq/Conn/Lookupd.php:43]
+---------------------------------------------------------------
+
+[2020-09-15T12:53:12+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.061832s] [吞吐率：16.17req/s] [内存消耗：613.75kb] [文件加载：151]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]未定义数组索引: producers[/Users/mac/Downloads/chengya/statics/vendor/okstuff/phpnsq/src/phpnsq/Conn/Lookupd.php:48]
+---------------------------------------------------------------
+
+[2020-09-15T12:57:58+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.059590s] [吞吐率：16.78req/s] [内存消耗：614.47kb] [文件加载：151]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]未定义数组索引: producers[/Users/mac/Downloads/chengya/statics/vendor/okstuff/phpnsq/src/phpnsq/Conn/Lookupd.php:48]
+---------------------------------------------------------------
+
+[2020-09-15T12:58:01+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.053729s] [吞吐率：18.61req/s] [内存消耗：613.67kb] [文件加载：151]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]未定义数组索引: producers[/Users/mac/Downloads/chengya/statics/vendor/okstuff/phpnsq/src/phpnsq/Conn/Lookupd.php:48]
+---------------------------------------------------------------
+
+[2020-09-15T12:58:08+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.007190s] [吞吐率：139.08req/s] [内存消耗：631.88kb] [文件加载：145]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T12:58:38+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.011546s] [吞吐率：86.61req/s] [内存消耗：633.04kb] [文件加载：145]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T12:59:40+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.007013s] [吞吐率：142.60req/s] [内存消耗：632.93kb] [文件加载：145]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:00:10+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.079504s] [吞吐率：12.58req/s] [内存消耗：614.47kb] [文件加载：151]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]未定义数组索引: producers[/Users/mac/Downloads/chengya/statics/vendor/okstuff/phpnsq/src/phpnsq/Conn/Lookupd.php:48]
+---------------------------------------------------------------
+
+[2020-09-15T13:01:46+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.054600s] [吞吐率：18.32req/s] [内存消耗：614.47kb] [文件加载：151]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]未定义数组索引: producers[/Users/mac/Downloads/chengya/statics/vendor/okstuff/phpnsq/src/phpnsq/Conn/Lookupd.php:48]
+---------------------------------------------------------------
+
+[2020-09-15T13:02:07+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.073386s] [吞吐率：13.63req/s] [内存消耗：614.47kb] [文件加载：151]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]未定义数组索引: producers[/Users/mac/Downloads/chengya/statics/vendor/okstuff/phpnsq/src/phpnsq/Conn/Lookupd.php:48]
+---------------------------------------------------------------
+
+[2020-09-15T13:02:08+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.074742s] [吞吐率：13.38req/s] [内存消耗：613.67kb] [文件加载：151]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]未定义数组索引: producers[/Users/mac/Downloads/chengya/statics/vendor/okstuff/phpnsq/src/phpnsq/Conn/Lookupd.php:48]
+---------------------------------------------------------------
+
+[2020-09-15T13:02:32+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.006087s] [吞吐率：164.28req/s] [内存消耗：631.99kb] [文件加载：145]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:03:22+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.006571s] [吞吐率：152.19req/s] [内存消耗：632.56kb] [文件加载：145]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:03:46+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.052148s] [吞吐率：19.18req/s] [内存消耗：633.27kb] [文件加载：145]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:04:29+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.008044s] [吞吐率：124.32req/s] [内存消耗：632.56kb] [文件加载：145]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:06:37+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.088320s] [吞吐率：11.32req/s] [内存消耗：614.56kb] [文件加载：151]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]未定义数组索引: producers[/Users/mac/Downloads/chengya/statics/vendor/okstuff/phpnsq/src/phpnsq/Conn/Lookupd.php:48]
+---------------------------------------------------------------
+
+[2020-09-15T13:07:43+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.071444s] [吞吐率：14.00req/s] [内存消耗：613.75kb] [文件加载：151]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]未定义数组索引: producers[/Users/mac/Downloads/chengya/statics/vendor/okstuff/phpnsq/src/phpnsq/Conn/Lookupd.php:48]
+---------------------------------------------------------------
+
+[2020-09-15T13:07:46+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.065486s] [吞吐率：15.27req/s] [内存消耗：613.67kb] [文件加载：151]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]未定义数组索引: producers[/Users/mac/Downloads/chengya/statics/vendor/okstuff/phpnsq/src/phpnsq/Conn/Lookupd.php:48]
+---------------------------------------------------------------
+
+[2020-09-15T13:09:42+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.061435s] [吞吐率：16.28req/s] [内存消耗：614.47kb] [文件加载：151]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]未定义数组索引: producers[/Users/mac/Downloads/chengya/statics/vendor/okstuff/phpnsq/src/phpnsq/Conn/Lookupd.php:48]
+---------------------------------------------------------------
+
+[2020-09-15T13:09:44+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.064892s] [吞吐率：15.41req/s] [内存消耗：613.67kb] [文件加载：151]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]未定义数组索引: producers[/Users/mac/Downloads/chengya/statics/vendor/okstuff/phpnsq/src/phpnsq/Conn/Lookupd.php:48]
+---------------------------------------------------------------
+
+[2020-09-15T13:09:44+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.066327s] [吞吐率：15.08req/s] [内存消耗：613.67kb] [文件加载：151]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]未定义数组索引: producers[/Users/mac/Downloads/chengya/statics/vendor/okstuff/phpnsq/src/phpnsq/Conn/Lookupd.php:48]
+---------------------------------------------------------------
+
+[2020-09-15T13:10:06+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.049606s] [吞吐率：20.16req/s] [内存消耗：633.27kb] [文件加载：145]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:10:42+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：2.120659s] [吞吐率：0.47req/s] [内存消耗：614.47kb] [文件加载：151]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]未定义数组索引: producers[/Users/mac/Downloads/chengya/statics/vendor/okstuff/phpnsq/src/phpnsq/Conn/Lookupd.php:48]
+---------------------------------------------------------------
+
+[2020-09-15T13:11:34+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.106316s] [吞吐率：9.41req/s] [内存消耗：609.59kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:12:28+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.074126s] [吞吐率：13.49req/s] [内存消耗：608.65kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:12:44+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.041426s] [吞吐率：24.14req/s] [内存消耗：609.74kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:12:58+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.031241s] [吞吐率：32.01req/s] [内存消耗：608.65kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:26:18+08:00] 127.0.0.1 GET statics/api/sub
+[运行时间：0.090168s] [吞吐率：11.09req/s] [内存消耗：514.91kb] [文件加载：123]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:26:35+08:00] 127.0.0.1 GET statics/api/index/sub
+[运行时间：0.038522s] [吞吐率：25.96req/s] [内存消耗：613.74kb] [文件加载：152]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]类型错误: Argument 1 passed to OkStuff\PhpNsq\PhpNsq::subscribe() must be an instance of OkStuff\PhpNsq\Cmd\Base, instance of app\common\Nsq given, called in /Users/mac/Downloads/chengya/statics/application/common/Nsq.php on line 28[/Users/mac/Downloads/chengya/statics/vendor/okstuff/phpnsq/src/phpnsq/PhpNsq.php:101]
+---------------------------------------------------------------
+
+[2020-09-15T13:29:56+08:00] 127.0.0.1 GET statics/api/index/sub
+[运行时间：0.007553s] [吞吐率：132.40req/s] [内存消耗：519.16kb] [文件加载：126]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Call to undefined method app\common\Nsq::setName()[/Users/mac/Downloads/chengya/statics/application/common/Nsq.php:22]
+---------------------------------------------------------------
+
+[2020-09-15T13:31:05+08:00] 127.0.0.1 GET statics/api/index/sub
+[运行时间：0.022715s] [吞吐率：44.02req/s] [内存消耗：613.90kb] [文件加载：152]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Call to undefined method OkStuff\PhpNsq\PhpNsq::setName()[/Users/mac/Downloads/chengya/statics/application/common/Nsq.php:24]
+---------------------------------------------------------------
+
+[2020-09-15T13:35:24+08:00] 127.0.0.1 GET statics/api/index/sub
+[运行时间：0.045707s] [吞吐率：21.88req/s] [内存消耗：614.27kb] [文件加载：152]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]类型错误: Argument 1 passed to OkStuff\PhpNsq\PhpNsq::subscribe() must be an instance of OkStuff\PhpNsq\Cmd\Base, instance of app\common\Nsq given, called in /Users/mac/Downloads/chengya/statics/application/common/Nsq.php on line 29[/Users/mac/Downloads/chengya/statics/vendor/okstuff/phpnsq/src/phpnsq/PhpNsq.php:101]
+---------------------------------------------------------------
+
+[2020-09-15T13:36:12+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.045303s] [吞吐率：22.07req/s] [内存消耗：609.07kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:36:34+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.028799s] [吞吐率：34.72req/s] [内存消耗：608.37kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:37:01+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.042108s] [吞吐率：23.75req/s] [内存消耗：608.98kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:37:51+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.043450s] [吞吐率：23.02req/s] [内存消耗：608.37kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:38:22+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.042566s] [吞吐率：23.49req/s] [内存消耗：608.96kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:39:29+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.029353s] [吞吐率：34.07req/s] [内存消耗：608.37kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:39:55+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.030853s] [吞吐率：32.41req/s] [内存消耗：608.76kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:40:20+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.049969s] [吞吐率：20.01req/s] [内存消耗：608.30kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:40:47+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.065826s] [吞吐率：15.19req/s] [内存消耗：614.06kb] [文件加载：151]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]未定义数组索引: producers[/Users/mac/Downloads/chengya/statics/vendor/okstuff/phpnsq/src/phpnsq/Conn/Lookupd.php:48]
+---------------------------------------------------------------
+
+[2020-09-15T13:40:59+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.029212s] [吞吐率：34.23req/s] [内存消耗：608.76kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:41:04+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.041859s] [吞吐率：23.89req/s] [内存消耗：608.37kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:41:51+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.031230s] [吞吐率：32.02req/s] [内存消耗：608.37kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:42:34+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.040561s] [吞吐率：24.65req/s] [内存消耗：608.76kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:42:45+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.032906s] [吞吐率：30.39req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:42:46+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.039860s] [吞吐率：25.09req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:43:13+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.031048s] [吞吐率：32.21req/s] [内存消耗：608.65kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:43:53+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.031770s] [吞吐率：31.48req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:44:07+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.030878s] [吞吐率：32.39req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:45:39+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.060077s] [吞吐率：16.65req/s] [内存消耗：608.45kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:47:03+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.072593s] [吞吐率：13.78req/s] [内存消耗：608.76kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:47:04+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.042509s] [吞吐率：23.52req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:47:05+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.059116s] [吞吐率：16.92req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:47:05+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.059237s] [吞吐率：16.88req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:47:06+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.055099s] [吞吐率：18.15req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:47:06+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.056077s] [吞吐率：17.83req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:47:06+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.037897s] [吞吐率：26.39req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:47:07+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.068684s] [吞吐率：14.56req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:47:07+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.038827s] [吞吐率：25.76req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:47:13+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.041168s] [吞吐率：24.29req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:47:14+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.058460s] [吞吐率：17.11req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T13:47:14+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.057940s] [吞吐率：17.26req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T16:03:35+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.088289s] [吞吐率：11.33req/s] [内存消耗：609.16kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T16:05:37+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.051873s] [吞吐率：19.28req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T16:06:12+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.047973s] [吞吐率：20.85req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T16:06:32+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.065854s] [吞吐率：15.19req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T16:09:47+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.076109s] [吞吐率：13.14req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T16:12:14+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.069558s] [吞吐率：14.38req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-15T16:13:24+08:00] 127.0.0.1 GET statics/api/index
+[运行时间：0.090259s] [吞吐率：11.08req/s] [内存消耗：608.05kb] [文件加载：149]
+[ info ] [ LANG ] /Users/mac/Downloads/chengya/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)

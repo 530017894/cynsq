@@ -1,0 +1,133 @@
+<!doctype html>
+<html>
+<head>
+    {include file="public/meta" /}
+    <style>
+        .top-box {
+            height: 50px;
+        }
+
+        .page-content {
+            top: 0;
+        }
+
+        .top {
+            position: fixed;
+            top: 45px;
+            width: 100%;
+            padding: 0;
+            height: 50px;
+            background: #FFFFFF;
+            box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .left-nav {
+            padding-top: 0;
+        }
+
+        .module-select {
+            border-radius: 50px;
+        }
+
+        .module-select input.layui-unselect {
+            border-radius: 50px;
+            text-align: center;
+        }
+
+        .flex {
+            display: flex;
+            align-items: center;
+            height: 100%
+        }
+
+        .agent-list {
+            display: flex;
+            align-items: center;
+            height: 40px;
+        }
+
+        .agent-list .agent-item {
+            width: 40px;
+            height: 40px;
+            float: left;
+            border-radius: 50px;
+            border: 1px solid #dddddd;
+            display: flex;
+            align-items: center;
+            overflow: hidden;
+            justify-content: center;
+        }
+
+        .agent-item.active {
+            background: #1E9FFF;
+        }
+
+        .agent-item img {
+            width: 30px;
+            height: 30px;
+        }
+        .layui-laydate-range{
+            width: 580px !important;
+        }
+    </style>
+    {block name="style"}
+    {/block}
+</head>
+<body>
+<!--头部-->
+{include file="public/header" /}
+<!--侧栏-->
+{include file="public/aside" /}
+<!-- 顶部开始 -->
+
+<!-- 顶部结束 -->
+<!-- 中部开始 -->
+<!-- 左侧菜单开始 -->
+
+<div class="x-slide_left"></div>
+<!-- 左侧菜单结束 -->
+<!-- 右侧主体开始 -->
+<div class="page-content" style="position: relative">
+    <div class="top-box">
+        <div class=" top ">
+            <div class="layui-row layui-form" style="height: 100%;padding: 0 15px">
+                <div class="layui-col-md2 layui-col-sm4 flex module-select">
+                    <select name="city" lay-verify="">
+                        <option value="010">北京</option>
+                        <option value="021">上海</option>
+                        <option value="0571">杭州</option>
+                    </select>
+                </div>
+                <div class="layui-col-md2 layui-col-sm4 flex">
+                    <!--平台-->
+                    <div class="agent-list">
+                        <div class="agent-item active">
+                            <img src="/favicon.ico" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div id="tools-left" class="layui-col-md6 layui-col-sm4 flex" style="justify-content: flex-end">
+                    {block name="tools"}
+                    {/block}
+                </div>
+            </div>
+        </div>
+    </div>
+    {block name="content"}
+    {/block}
+</div>
+
+<!-- 右侧主体结束 -->
+<!-- 中部结束 -->
+{include file="public/footer" /}
+<script>
+    layui.use(['form', 'jquery'], function () {
+        form = layui.form;
+    })
+</script>
+
+{block name="script"}
+{/block}
+</body>
+
+</html>

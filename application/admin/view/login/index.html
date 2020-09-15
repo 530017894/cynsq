@@ -1,0 +1,79 @@
+{extend name="public:page" /}
+{block name="meta"}
+<link rel="stylesheet" href="__X_ADMIN_CSS__/login.css">
+
+<!--头信息-->
+{/block}
+{block name="content"}
+<div class="login-bg" style="width: 100vw;height: 100vh">
+    <div class="login layui-anim layui-anim-up">
+        <div class="message">x-admin2.0-管理登录</div>
+        <div id="darkbannerwrap"></div>
+
+        <form method="post" class="layui-form">
+            <div>
+                <input id="user_name" name="user_name" placeholder="用户名" type="text" lay-verify="required" class="layui-input">
+            </div>
+            <hr class="hr15">
+
+            <div>
+                <input id="password" name="password" lay-verify="required" placeholder="密码" type="password" class="layui-input">
+            </div>
+            <hr class="hr15">
+            <div>
+                <input value="登录" lay-submit lay-filter="login" style="width:100%;" type="submit">
+            </div>
+            <hr class="hr20">
+        </form>
+    </div>
+</div>
+
+{/block}
+{block name="footer"}
+<script>
+    layui.use(['form', 'jquery'], function () {
+        var form = layui.form;
+        var $ = layui.jquery;
+        // layer.msg('玩命卖萌中', function(){
+        //   //关闭后的操作
+        //   });
+        //监听提交
+        let user_name_dom = $("#user_name")
+        let password_dom = $("#password")
+        user_name_dom.on("blur", function () {
+            if (!$(this).val()) {
+                let msg = $("<div style='color: red' class=\" msg\">文本提示</div>")
+                msg.text('请输入账号')
+                $(this).after(msg)
+            }
+        }).on("focus", function () {
+            $(this).siblings('.msg').remove()
+        })
+        password_dom.on("blur", function () {
+            if (!$(this).val()) {
+                let msg = $("<div  style='color: red' class=\"c-red msg\">文本提示</div>")
+                msg.text('请输入密码')
+                $(this).after(msg)
+            }
+        }).on("focus", function () {
+            $(this).siblings('.msg').remove()
+        })
+        form.on('submit(login)', function (data) {
+
+            $.post('{:url("login/index")}', data.field, function (res) {
+                if (res.code == 200) {
+                    layer.msg('登录成功', function () {
+                        location.href = '{:url("index/index")}'
+                    });
+                } else {
+                    layer.msg(res.msg);
+                }
+            })
+
+            return false;
+        });
+    });
+</script>
+<!-- 底部结束 -->
+<!--脚本-->
+{/block}

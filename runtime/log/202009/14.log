@@ -1,0 +1,393 @@
+---------------------------------------------------------------
+
+[2020-09-14T17:18:18+08:00] 172.17.0.1 GET statics/api/
+[运行时间：0.679476s] [吞吐率：1.47req/s] [内存消耗：734.13kb] [文件加载：113]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-09-14T17:18:53+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.295159s] [吞吐率：3.39req/s] [内存消耗：716.79kb] [文件加载：147]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]Use of undefined constant JSON_INVALID_UTF8_SUBSTITUTE - assumed 'JSON_INVALID_UTF8_SUBSTITUTE'[/data/statics/vendor/okstuff/phpnsq/src/phpnsq/Utils/Logging.php:20]
+---------------------------------------------------------------
+
+[2020-09-14T17:19:58+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.066608s] [吞吐率：15.01req/s] [内存消耗：647.55kb] [文件加载：147]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]Use of undefined constant JSON_INVALID_UTF8_SUBSTITUTE - assumed 'JSON_INVALID_UTF8_SUBSTITUTE'[/data/statics/vendor/okstuff/phpnsq/src/phpnsq/Utils/Logging.php:20]
+---------------------------------------------------------------
+
+[2020-09-14T17:20:00+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.038203s] [吞吐率：26.18req/s] [内存消耗：646.45kb] [文件加载：147]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]Use of undefined constant JSON_INVALID_UTF8_SUBSTITUTE - assumed 'JSON_INVALID_UTF8_SUBSTITUTE'[/data/statics/vendor/okstuff/phpnsq/src/phpnsq/Utils/Logging.php:20]
+---------------------------------------------------------------
+
+[2020-09-14T17:20:00+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.034615s] [吞吐率：28.89req/s] [内存消耗：646.45kb] [文件加载：147]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]Use of undefined constant JSON_INVALID_UTF8_SUBSTITUTE - assumed 'JSON_INVALID_UTF8_SUBSTITUTE'[/data/statics/vendor/okstuff/phpnsq/src/phpnsq/Utils/Logging.php:20]
+---------------------------------------------------------------
+
+[2020-09-14T17:20:05+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.039368s] [吞吐率：25.40req/s] [内存消耗：670.84kb] [文件加载：147]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]Use of undefined constant JSON_INVALID_UTF8_SUBSTITUTE - assumed 'JSON_INVALID_UTF8_SUBSTITUTE'[/data/statics/vendor/okstuff/phpnsq/src/phpnsq/Utils/Logging.php:20]
+---------------------------------------------------------------
+
+[2020-09-14T17:20:08+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.040687s] [吞吐率：24.58req/s] [内存消耗：647.55kb] [文件加载：147]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]Use of undefined constant JSON_INVALID_UTF8_SUBSTITUTE - assumed 'JSON_INVALID_UTF8_SUBSTITUTE'[/data/statics/vendor/okstuff/phpnsq/src/phpnsq/Utils/Logging.php:20]
+---------------------------------------------------------------
+
+[2020-09-14T17:21:35+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.037723s] [吞吐率：26.51req/s] [内存消耗：647.63kb] [文件加载：147]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]Use of undefined constant JSON_INVALID_UTF8_SUBSTITUTE - assumed 'JSON_INVALID_UTF8_SUBSTITUTE'[/data/statics/vendor/okstuff/phpnsq/src/phpnsq/Utils/Logging.php:20]
+---------------------------------------------------------------
+
+[2020-09-14T17:21:43+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.046225s] [吞吐率：21.63req/s] [内存消耗：647.03kb] [文件加载：147]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]Use of undefined constant JSON_INVALID_UTF8_SUBSTITUTE - assumed 'JSON_INVALID_UTF8_SUBSTITUTE'[/data/statics/vendor/okstuff/phpnsq/src/phpnsq/Utils/Logging.php:20]
+---------------------------------------------------------------
+
+[2020-09-14T17:21:43+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.026600s] [吞吐率：37.59req/s] [内存消耗：646.45kb] [文件加载：147]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]Use of undefined constant JSON_INVALID_UTF8_SUBSTITUTE - assumed 'JSON_INVALID_UTF8_SUBSTITUTE'[/data/statics/vendor/okstuff/phpnsq/src/phpnsq/Utils/Logging.php:20]
+---------------------------------------------------------------
+
+[2020-09-14T17:21:43+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.038238s] [吞吐率：26.15req/s] [内存消耗：646.45kb] [文件加载：147]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]Use of undefined constant JSON_INVALID_UTF8_SUBSTITUTE - assumed 'JSON_INVALID_UTF8_SUBSTITUTE'[/data/statics/vendor/okstuff/phpnsq/src/phpnsq/Utils/Logging.php:20]
+---------------------------------------------------------------
+
+[2020-09-14T17:21:44+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.040176s] [吞吐率：24.89req/s] [内存消耗：646.45kb] [文件加载：147]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]Use of undefined constant JSON_INVALID_UTF8_SUBSTITUTE - assumed 'JSON_INVALID_UTF8_SUBSTITUTE'[/data/statics/vendor/okstuff/phpnsq/src/phpnsq/Utils/Logging.php:20]
+---------------------------------------------------------------
+
+[2020-09-14T17:21:59+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.027559s] [吞吐率：36.29req/s] [内存消耗：575.66kb] [文件加载：123]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-14T17:22:24+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.043167s] [吞吐率：23.17req/s] [内存消耗：647.63kb] [文件加载：147]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]Use of undefined constant JSON_INVALID_UTF8_SUBSTITUTE - assumed 'JSON_INVALID_UTF8_SUBSTITUTE'[/data/statics/vendor/okstuff/phpnsq/src/phpnsq/Utils/Logging.php:20]
+---------------------------------------------------------------
+
+[2020-09-14T17:22:32+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.060901s] [吞吐率：16.42req/s] [内存消耗：647.55kb] [文件加载：147]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]Use of undefined constant JSON_INVALID_UTF8_SUBSTITUTE - assumed 'JSON_INVALID_UTF8_SUBSTITUTE'[/data/statics/vendor/okstuff/phpnsq/src/phpnsq/Utils/Logging.php:20]
+---------------------------------------------------------------
+
+[2020-09-14T17:22:33+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.034700s] [吞吐率：28.82req/s] [内存消耗：646.45kb] [文件加载：147]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]Use of undefined constant JSON_INVALID_UTF8_SUBSTITUTE - assumed 'JSON_INVALID_UTF8_SUBSTITUTE'[/data/statics/vendor/okstuff/phpnsq/src/phpnsq/Utils/Logging.php:20]
+---------------------------------------------------------------
+
+[2020-09-14T17:22:58+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.027753s] [吞吐率：36.03req/s] [内存消耗：579.05kb] [文件加载：125]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-09-14T17:23:21+08:00] 172.17.0.1 GET statics/api/index
+[运行时间：0.038475s] [吞吐率：25.99req/s] [内存消耗：647.55kb] [文件加载：147]
+[ info ] [ LANG ] /data/statics/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4978919424; pgv_si=s7138892800; user=%7B%22id%22%3A1%2C%22name%22%3A%22test%22%2C%22nick_name%22%3A%22test%22%2C%22mobile%22%3Anull%2C%22email%22%3Anull%2C%22status%22%3A1%2C%22ctime%22%3A%222020-09-11+16%3A04%3A36%22%2C%22mtime%22%3A%222020-09-11+16%3A04%3A36%22%7D',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'statics',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]Use of undefined constant JSON_INVALID_UTF8_SUBSTITUTE - assumed 'JSON_INVALID_UTF8_SUBSTITUTE'[/data/statics/vendor/okstuff/phpnsq/src/phpnsq/Utils/Logging.php:20]

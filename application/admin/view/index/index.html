@@ -1,0 +1,98 @@
+{extend name="layout" /}
+{block name="tools"}
+<div class="layui-inline">
+    <div class="layui-input-inline" style="width: 200px;">
+        <div class="layui-btn-group">
+            <div class="layui-btn layui-btn-normal layui-btn-sm">昨日</div>
+            <div class="layui-btn layui-btn-sm">过去七天</div>
+            <div class="layui-btn layui-btn-sm">过去30天</div>
+        </div>
+    </div>
+    <div class="layui-input-inline" style="width: 200px;">
+        <input type="text" id="test2" placeholder="请选择时间" class="layui-input">
+    </div>
+<!--    <div class="layui-input-inline" style="width: 200px;">-->
+<!--        <label>-->
+<!--            <select name="" id="">-->
+<!--                <option value="">全部系统</option>-->
+<!--                <option value="1">安卓系统</option>-->
+<!--                <option value="1">苹果系统</option>-->
+<!--                <option value="1">windows系统</option>-->
+<!--            </select>-->
+<!--        </label>-->
+<!--    </div>-->
+<!--    <div class="layui-input-inline" style="width: 200px;">-->
+<!--        <label>-->
+<!--            <select lay-search name="" id="">-->
+<!--                <option value="">全部厂商</option>-->
+<!--                <option value="1">华为</option>-->
+<!--                <option value="1">苹果</option>-->
+<!--                <option value="1">小米</option>-->
+<!--                <option value="1">三星</option>-->
+<!--                <option value="1">OPPO</option>-->
+<!--                <option value="1">VIVO</option>-->
+<!--            </select>-->
+<!--        </label>-->
+<!--    </div>-->
+<!--    <div class="layui-input-inline" style="width: 200px;">-->
+<!--        <label>-->
+<!--            <select lay-search name="" id="">-->
+<!--                <option value="">搜索名称</option>-->
+<!--                <option value="1">橙芽</option>-->
+<!--            </select>-->
+<!--        </label>-->
+<!--    </div>-->
+</div>
+{/block}
+{block name="script"}
+<script>
+    layui.use(['laydate'], function () {
+        var laydate = layui.laydate
+        var laydate1 = laydate.render({
+                elem: '#test2'
+                , range: true,
+                extrabtns: [
+                    {
+                        id: 'today',
+                        text: '今天',
+                        range: [new Date(new Date().setDate(new Date().getDate())), new Date(new Date().setDate(new Date().getDate()))]
+                    },
+                    {
+                        id: 'yesterday',
+                        text: '昨天',
+                        range: [new Date(new Date().setDate(new Date().getDate() - 1)), new Date(new Date().setDate(new Date().getDate() - 1))]
+                    },
+                    {
+                        id: 'lastday-7',
+                        text: '最近一周',
+                        range: [new Date(new Date().setDate(new Date().getDay() - 1)), new Date(new Date().setDate(new Date().getDate() - 1))]
+                    },
+                    {
+                        id: 'lastday-30',
+                        text: '最近一月',
+                        range: [new Date(new Date().setDate(new Date().getDate() - 30)), new Date(new Date().setDate(new Date().getDate() - 1))]
+                    }
+                    ,
+                    {
+                        id: 'lastday-90',
+                        text: '最近三个月',
+                        range: [new Date(new Date().setDate(new Date().getDate() - 90)), new Date(new Date().setDate(new Date().getDate() - 1))]
+                    },
+                    {
+                        id: 'lastday-30',
+                        text: '最近半年',
+                        range: [new Date(new Date().setDate(new Date().getDate() - 30)), new Date(new Date().setDate(new Date().getDate() - 1))]
+                    }
+                    ,
+                    {
+                        id: 'lastday-30',
+                        text: '最近一年',
+                        range: [new Date(new Date().setDate(new Date().getDate() - 30)), new Date(new Date().setDate(new Date().getDate() - 1))]
+                    }
+                ]
+            })
+        ;
+    })
+
+</script>
+{/block}
