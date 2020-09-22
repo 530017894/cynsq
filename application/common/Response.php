@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\common\controller;
+namespace app\common;
 
 /**
  * 请求响应

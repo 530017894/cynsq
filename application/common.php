@@ -43,3 +43,11 @@ function microtime_float()
     list($usec, $sec) = explode(" ", microtime());
     return ((float)$usec + (float)$sec);
 }
+
+function check_signature($timestamp,$signature)
+{
+    if(sha1($timestamp.'cy2020static') == $signature){
+        return true;
+    }
+    return false;
+}

@@ -23,8 +23,14 @@ class Es
         $params = [];
         $params['index'] = self::$index;
         $params['type'] = self::$type;
+        $data['created_at'] = date('Y-m-d H:i:s');
         $params['body'] = $data;
         self::$client->index($params);
+    }
+
+    public function searches($params = [])
+    {
+        return self::$client->search($params);
     }
 
     public static function instance()

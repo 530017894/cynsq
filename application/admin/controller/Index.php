@@ -3,8 +3,6 @@
 namespace app\admin\controller;
 
 use app\admin\service\Es;
-use Elasticsearch\ClientBuilder;
-use OkStuff\PhpNsq\PhpNsq;
 
 /**
  * 后台入口

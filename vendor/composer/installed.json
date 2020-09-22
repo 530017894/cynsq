@@ -1,37 +1,28 @@
 [
     {
-        "name": "bramus/ansi-php",
-        "version": "3.0.3",
-        "version_normalized": "3.0.3.0",
+        "name": "aknife/agent",
+        "version": "v0.1.3",
+        "version_normalized": "0.1.3.0",
         "source": {
             "type": "git",
-            "url": "https://github.com/bramus/ansi-php.git",
-            "reference": "fb0be33f36053af7454d462e3ddc0a2ac0b2f311"
+            "url": "https://github.com/aknife2019/agent.git",
+            "reference": "f5fed1c1c9d092748b89814d50509dc6c60af453"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/bramus/ansi-php/zipball/fb0be33f36053af7454d462e3ddc0a2ac0b2f311",
-            "reference": "fb0be33f36053af7454d462e3ddc0a2ac0b2f311",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
+            "url": "https://api.github.com/repos/aknife2019/agent/zipball/f5fed1c1c9d092748b89814d50509dc6c60af453",
+            "reference": "f5fed1c1c9d092748b89814d50509dc6c60af453",
+            "shasum": ""
         },
         "require": {
-            "php": ">=5.4.0"
+            "php": ">=5.6"
         },
-        "require-dev": {
-            "phpunit/phpunit": "~4.0"
-        },
-        "time": "2019-12-03T09:04:38+00:00",
+        "time": "2019-05-24T02:40:46+00:00",
         "type": "library",
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-4": {
-                "Bramus\\Ansi\\": "src/"
+                "Aknife\\Agent\\": "src/"
             }
         },
         "notification-url": "https://packagist.org/downloads/",
@@ -40,62 +31,27 @@
         ],
         "authors": [
             {
-                "name": "Bramus Van Damme",
-                "email": "bramus@bram.us",
-                "homepage": "https://www.bram.us/"
+                "name": "阿刀",
+                "email": "code@aknife.cn"
             }
         ],
-        "description": "ANSI Control Functions and ANSI Control Sequences (Colors, Erasing, etc.) for PHP CLI Apps"
-    },
-    {
-        "name": "bramus/monolog-colored-line-formatter",
-        "version": "3.0.4",
-        "version_normalized": "3.0.4.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/bramus/monolog-colored-line-formatter.git",
-            "reference": "d2c3197b7ea0fffa83e2030ea834aec24662071c"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/bramus/monolog-colored-line-formatter/zipball/d2c3197b7ea0fffa83e2030ea834aec24662071c",
-            "reference": "d2c3197b7ea0fffa83e2030ea834aec24662071c",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
-        },
-        "require": {
-            "bramus/ansi-php": "^3.0.3",
-            "php": "^7.2"
-        },
-        "require-dev": {
-            "monolog/monolog": "~2.0",
-            "phpunit/phpunit": "~7.0"
-        },
-        "time": "2019-12-09T10:51:42+00:00",
-        "type": "library",
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "Bramus\\Monolog\\": "src/"
-            }
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Bramus Van Damme",
-                "email": "bramus@bram.us",
-                "homepage": "https://www.bram.us/"
-            }
-        ],
-        "description": "Colored Line Formatter for Monolog"
+        "description": "获取语言、操作系、浏览器、手机备的名称等",
+        "homepage": "https://aknife.cn",
+        "keywords": [
+            "Agent",
+            "browser",
+            "desktop",
+            "header",
+            "mobile",
+            "php",
+            "platform",
+            "user agent",
+            "useragent",
+            "手机",
+            "手机浏览器",
+            "操作系统",
+            "浏览器"
+        ]
     },
     {
         "name": "elasticsearch/elasticsearch",
@@ -110,13 +66,7 @@
             "type": "zip",
             "url": "https://api.github.com/repos/elastic/elasticsearch-php/zipball/1380925ccd276ab897c76596cf3705cb9714a78c",
             "reference": "1380925ccd276ab897c76596cf3705cb9714a78c",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
+            "shasum": ""
         },
         "require": {
             "ext-json": ">=1.3.7",
@@ -181,13 +131,7 @@
             "type": "zip",
             "url": "https://api.github.com/repos/ezimuel/guzzlestreams/zipball/abe3791d231167f14eb80d413420d1eab91163a8",
             "reference": "abe3791d231167f14eb80d413420d1eab91163a8",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
+            "shasum": ""
         },
         "require": {
             "php": ">=5.4.0"
@@ -239,13 +183,7 @@
             "type": "zip",
             "url": "https://api.github.com/repos/ezimuel/ringphp/zipball/0b78f89d8e0bb9e380046c31adfa40347e9f663b",
             "reference": "0b78f89d8e0bb9e380046c31adfa40347e9f663b",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
+            "shasum": ""
         },
         "require": {
             "ezimuel/guzzlestreams": "^3.0.1",
@@ -286,204 +224,6 @@
         "description": "Fork of guzzle/RingPHP (abandoned) to be used with elasticsearch-php"
     },
     {
-        "name": "monolog/monolog",
-        "version": "2.1.1",
-        "version_normalized": "2.1.1.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/Seldaek/monolog.git",
-            "reference": "f9eee5cec93dfb313a38b6b288741e84e53f02d5"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/Seldaek/monolog/zipball/f9eee5cec93dfb313a38b6b288741e84e53f02d5",
-            "reference": "f9eee5cec93dfb313a38b6b288741e84e53f02d5",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
-        },
-        "require": {
-            "php": ">=7.2",
-            "psr/log": "^1.0.1"
-        },
-        "provide": {
-            "psr/log-implementation": "1.0.0"
-        },
-        "require-dev": {
-            "aws/aws-sdk-php": "^2.4.9 || ^3.0",
-            "doctrine/couchdb": "~1.0@dev",
-            "elasticsearch/elasticsearch": "^6.0",
-            "graylog2/gelf-php": "^1.4.2",
-            "php-amqplib/php-amqplib": "~2.4",
-            "php-console/php-console": "^3.1.3",
-            "php-parallel-lint/php-parallel-lint": "^1.0",
-            "phpspec/prophecy": "^1.6.1",
-            "phpunit/phpunit": "^8.5",
-            "predis/predis": "^1.1",
-            "rollbar/rollbar": "^1.3",
-            "ruflin/elastica": ">=0.90 <3.0",
-            "swiftmailer/swiftmailer": "^5.3|^6.0"
-        },
-        "suggest": {
-            "aws/aws-sdk-php": "Allow sending log messages to AWS services like DynamoDB",
-            "doctrine/couchdb": "Allow sending log messages to a CouchDB server",
-            "elasticsearch/elasticsearch": "Allow sending log messages to an Elasticsearch server via official client",
-            "ext-amqp": "Allow sending log messages to an AMQP server (1.0+ required)",
-            "ext-mbstring": "Allow to work properly with unicode symbols",
-            "ext-mongodb": "Allow sending log messages to a MongoDB server (via driver)",
-            "graylog2/gelf-php": "Allow sending log messages to a GrayLog2 server",
-            "mongodb/mongodb": "Allow sending log messages to a MongoDB server (via library)",
-            "php-amqplib/php-amqplib": "Allow sending log messages to an AMQP server using php-amqplib",
-            "php-console/php-console": "Allow sending log messages to Google Chrome",
-            "rollbar/rollbar": "Allow sending log messages to Rollbar",
-            "ruflin/elastica": "Allow sending log messages to an Elastic Search server"
-        },
-        "time": "2020-07-23T08:41:23+00:00",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "2.x-dev"
-            }
-        },
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "Monolog\\": "src/Monolog"
-            }
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Jordi Boggiano",
-                "email": "j.boggiano@seld.be",
-                "homepage": "http://seld.be"
-            }
-        ],
-        "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
-        "homepage": "http://github.com/Seldaek/monolog",
-        "keywords": [
-            "log",
-            "logging",
-            "psr-3"
-        ]
-    },
-    {
-        "name": "okstuff/phpnsq",
-        "version": "3.1",
-        "version_normalized": "3.1.0.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/stackerzzq/phpnsq.git",
-            "reference": "de3e9845b066cf5e23a68f62a74013e36f19f428"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/stackerzzq/phpnsq/zipball/de3e9845b066cf5e23a68f62a74013e36f19f428",
-            "reference": "de3e9845b066cf5e23a68f62a74013e36f19f428",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
-        },
-        "require": {
-            "bramus/monolog-colored-line-formatter": "^3.0",
-            "monolog/monolog": "^2.0",
-            "react/event-loop": "^v0.4|^v0.5|^v1.1",
-            "symfony/console": "^v5.0"
-        },
-        "time": "2020-05-08T16:27:52+00:00",
-        "type": "library",
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "OkStuff\\PhpNsq\\": "src/phpnsq/"
-            }
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "stackerzzq",
-                "email": "foo_stacker@yeah.net"
-            }
-        ],
-        "description": "PHP Client for nsq",
-        "homepage": "http://github.com/stackerzzq/phpnsq",
-        "keywords": [
-            "nsq",
-            "queue"
-        ]
-    },
-    {
-        "name": "psr/container",
-        "version": "1.0.0",
-        "version_normalized": "1.0.0.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/php-fig/container.git",
-            "reference": "b7ce3b176482dbbc1245ebf52b181af44c2cf55f"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/php-fig/container/zipball/b7ce3b176482dbbc1245ebf52b181af44c2cf55f",
-            "reference": "b7ce3b176482dbbc1245ebf52b181af44c2cf55f",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
-        },
-        "require": {
-            "php": ">=5.3.0"
-        },
-        "time": "2017-02-14T16:28:37+00:00",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "1.0.x-dev"
-            }
-        },
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "Psr\\Container\\": "src/"
-            }
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "PHP-FIG",
-                "homepage": "http://www.php-fig.org/"
-            }
-        ],
-        "description": "Common Container Interface (PHP FIG PSR-11)",
-        "homepage": "https://github.com/php-fig/container",
-        "keywords": [
-            "PSR-11",
-            "container",
-            "container-interface",
-            "container-interop",
-            "psr"
-        ]
-    },
-    {
         "name": "psr/log",
         "version": "1.1.3",
         "version_normalized": "1.1.3.0",
@@ -496,13 +236,7 @@
             "type": "zip",
             "url": "https://api.github.com/repos/php-fig/log/zipball/0f73288fd15629204f9d42b7055f72dacbe811fc",
             "reference": "0f73288fd15629204f9d42b7055f72dacbe811fc",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
+            "shasum": ""
         },
         "require": {
             "php": ">=5.3.0"
@@ -539,56 +273,6 @@
         ]
     },
     {
-        "name": "react/event-loop",
-        "version": "v1.1.1",
-        "version_normalized": "1.1.1.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/reactphp/event-loop.git",
-            "reference": "6d24de090cd59cfc830263cfba965be77b563c13"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/reactphp/event-loop/zipball/6d24de090cd59cfc830263cfba965be77b563c13",
-            "reference": "6d24de090cd59cfc830263cfba965be77b563c13",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
-        },
-        "require": {
-            "php": ">=5.3.0"
-        },
-        "require-dev": {
-            "phpunit/phpunit": "^7.0 || ^6.4 || ^5.7 || ^4.8.35"
-        },
-        "suggest": {
-            "ext-event": "~1.0 for ExtEventLoop",
-            "ext-pcntl": "For signal handling support when using the StreamSelectLoop",
-            "ext-uv": "* for ExtUvLoop"
-        },
-        "time": "2020-01-01T18:39:52+00:00",
-        "type": "library",
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "React\\EventLoop\\": "src"
-            }
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "description": "ReactPHP's core reactor event loop that libraries can use for evented I/O.",
-        "keywords": [
-            "asynchronous",
-            "event-loop"
-        ]
-    },
-    {
         "name": "react/promise",
         "version": "v2.8.0",
         "version_normalized": "2.8.0.0",
@@ -601,13 +285,7 @@
             "type": "zip",
             "url": "https://api.github.com/repos/reactphp/promise/zipball/f3cff96a19736714524ca0dd1d4130de73dbbbc4",
             "reference": "f3cff96a19736714524ca0dd1d4130de73dbbbc4",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
+            "shasum": ""
         },
         "require": {
             "php": ">=5.4.0"
@@ -643,674 +321,6 @@
         ]
     },
     {
-        "name": "symfony/console",
-        "version": "v5.1.5",
-        "version_normalized": "5.1.5.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/symfony/console.git",
-            "reference": "186f395b256065ba9b890c0a4e48a91d598fa2cf"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/symfony/console/zipball/186f395b256065ba9b890c0a4e48a91d598fa2cf",
-            "reference": "186f395b256065ba9b890c0a4e48a91d598fa2cf",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
-        },
-        "require": {
-            "php": ">=7.2.5",
-            "symfony/polyfill-mbstring": "~1.0",
-            "symfony/polyfill-php73": "^1.8",
-            "symfony/polyfill-php80": "^1.15",
-            "symfony/service-contracts": "^1.1|^2",
-            "symfony/string": "^5.1"
-        },
-        "conflict": {
-            "symfony/dependency-injection": "<4.4",
-            "symfony/dotenv": "<5.1",
-            "symfony/event-dispatcher": "<4.4",
-            "symfony/lock": "<4.4",
-            "symfony/process": "<4.4"
-        },
-        "provide": {
-            "psr/log-implementation": "1.0"
-        },
-        "require-dev": {
-            "psr/log": "~1.0",
-            "symfony/config": "^4.4|^5.0",
-            "symfony/dependency-injection": "^4.4|^5.0",
-            "symfony/event-dispatcher": "^4.4|^5.0",
-            "symfony/lock": "^4.4|^5.0",
-            "symfony/process": "^4.4|^5.0",
-            "symfony/var-dumper": "^4.4|^5.0"
-        },
-        "suggest": {
-            "psr/log": "For using the console logger",
-            "symfony/event-dispatcher": "",
-            "symfony/lock": "",
-            "symfony/process": ""
-        },
-        "time": "2020-09-02T07:07:40+00:00",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "5.1-dev"
-            }
-        },
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "Symfony\\Component\\Console\\": ""
-            },
-            "exclude-from-classmap": [
-                "/Tests/"
-            ]
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Fabien Potencier",
-                "email": "fabien@symfony.com"
-            },
-            {
-                "name": "Symfony Community",
-                "homepage": "https://symfony.com/contributors"
-            }
-        ],
-        "description": "Symfony Console Component",
-        "homepage": "https://symfony.com"
-    },
-    {
-        "name": "symfony/polyfill-ctype",
-        "version": "v1.18.1",
-        "version_normalized": "1.18.1.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/symfony/polyfill-ctype.git",
-            "reference": "1c302646f6efc070cd46856e600e5e0684d6b454"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/1c302646f6efc070cd46856e600e5e0684d6b454",
-            "reference": "1c302646f6efc070cd46856e600e5e0684d6b454",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
-        },
-        "require": {
-            "php": ">=5.3.3"
-        },
-        "suggest": {
-            "ext-ctype": "For best performance"
-        },
-        "time": "2020-07-14T12:35:20+00:00",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "1.18-dev"
-            },
-            "thanks": {
-                "name": "symfony/polyfill",
-                "url": "https://github.com/symfony/polyfill"
-            }
-        },
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "Symfony\\Polyfill\\Ctype\\": ""
-            },
-            "files": [
-                "bootstrap.php"
-            ]
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Gert de Pagter",
-                "email": "BackEndTea@gmail.com"
-            },
-            {
-                "name": "Symfony Community",
-                "homepage": "https://symfony.com/contributors"
-            }
-        ],
-        "description": "Symfony polyfill for ctype functions",
-        "homepage": "https://symfony.com",
-        "keywords": [
-            "compatibility",
-            "ctype",
-            "polyfill",
-            "portable"
-        ]
-    },
-    {
-        "name": "symfony/polyfill-intl-grapheme",
-        "version": "v1.18.1",
-        "version_normalized": "1.18.1.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/symfony/polyfill-intl-grapheme.git",
-            "reference": "b740103edbdcc39602239ee8860f0f45a8eb9aa5"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/symfony/polyfill-intl-grapheme/zipball/b740103edbdcc39602239ee8860f0f45a8eb9aa5",
-            "reference": "b740103edbdcc39602239ee8860f0f45a8eb9aa5",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
-        },
-        "require": {
-            "php": ">=5.3.3"
-        },
-        "suggest": {
-            "ext-intl": "For best performance"
-        },
-        "time": "2020-07-14T12:35:20+00:00",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "1.18-dev"
-            },
-            "thanks": {
-                "name": "symfony/polyfill",
-                "url": "https://github.com/symfony/polyfill"
-            }
-        },
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "Symfony\\Polyfill\\Intl\\Grapheme\\": ""
-            },
-            "files": [
-                "bootstrap.php"
-            ]
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Nicolas Grekas",
-                "email": "p@tchwork.com"
-            },
-            {
-                "name": "Symfony Community",
-                "homepage": "https://symfony.com/contributors"
-            }
-        ],
-        "description": "Symfony polyfill for intl's grapheme_* functions",
-        "homepage": "https://symfony.com",
-        "keywords": [
-            "compatibility",
-            "grapheme",
-            "intl",
-            "polyfill",
-            "portable",
-            "shim"
-        ]
-    },
-    {
-        "name": "symfony/polyfill-intl-normalizer",
-        "version": "v1.18.1",
-        "version_normalized": "1.18.1.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/symfony/polyfill-intl-normalizer.git",
-            "reference": "37078a8dd4a2a1e9ab0231af7c6cb671b2ed5a7e"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/symfony/polyfill-intl-normalizer/zipball/37078a8dd4a2a1e9ab0231af7c6cb671b2ed5a7e",
-            "reference": "37078a8dd4a2a1e9ab0231af7c6cb671b2ed5a7e",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
-        },
-        "require": {
-            "php": ">=5.3.3"
-        },
-        "suggest": {
-            "ext-intl": "For best performance"
-        },
-        "time": "2020-07-14T12:35:20+00:00",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "1.18-dev"
-            },
-            "thanks": {
-                "name": "symfony/polyfill",
-                "url": "https://github.com/symfony/polyfill"
-            }
-        },
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "Symfony\\Polyfill\\Intl\\Normalizer\\": ""
-            },
-            "files": [
-                "bootstrap.php"
-            ],
-            "classmap": [
-                "Resources/stubs"
-            ]
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Nicolas Grekas",
-                "email": "p@tchwork.com"
-            },
-            {
-                "name": "Symfony Community",
-                "homepage": "https://symfony.com/contributors"
-            }
-        ],
-        "description": "Symfony polyfill for intl's Normalizer class and related functions",
-        "homepage": "https://symfony.com",
-        "keywords": [
-            "compatibility",
-            "intl",
-            "normalizer",
-            "polyfill",
-            "portable",
-            "shim"
-        ]
-    },
-    {
-        "name": "symfony/polyfill-mbstring",
-        "version": "v1.18.1",
-        "version_normalized": "1.18.1.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/symfony/polyfill-mbstring.git",
-            "reference": "a6977d63bf9a0ad4c65cd352709e230876f9904a"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/a6977d63bf9a0ad4c65cd352709e230876f9904a",
-            "reference": "a6977d63bf9a0ad4c65cd352709e230876f9904a",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
-        },
-        "require": {
-            "php": ">=5.3.3"
-        },
-        "suggest": {
-            "ext-mbstring": "For best performance"
-        },
-        "time": "2020-07-14T12:35:20+00:00",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "1.18-dev"
-            },
-            "thanks": {
-                "name": "symfony/polyfill",
-                "url": "https://github.com/symfony/polyfill"
-            }
-        },
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "Symfony\\Polyfill\\Mbstring\\": ""
-            },
-            "files": [
-                "bootstrap.php"
-            ]
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Nicolas Grekas",
-                "email": "p@tchwork.com"
-            },
-            {
-                "name": "Symfony Community",
-                "homepage": "https://symfony.com/contributors"
-            }
-        ],
-        "description": "Symfony polyfill for the Mbstring extension",
-        "homepage": "https://symfony.com",
-        "keywords": [
-            "compatibility",
-            "mbstring",
-            "polyfill",
-            "portable",
-            "shim"
-        ]
-    },
-    {
-        "name": "symfony/polyfill-php73",
-        "version": "v1.18.1",
-        "version_normalized": "1.18.1.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/symfony/polyfill-php73.git",
-            "reference": "fffa1a52a023e782cdcc221d781fe1ec8f87fcca"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/symfony/polyfill-php73/zipball/fffa1a52a023e782cdcc221d781fe1ec8f87fcca",
-            "reference": "fffa1a52a023e782cdcc221d781fe1ec8f87fcca",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
-        },
-        "require": {
-            "php": ">=5.3.3"
-        },
-        "time": "2020-07-14T12:35:20+00:00",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "1.18-dev"
-            },
-            "thanks": {
-                "name": "symfony/polyfill",
-                "url": "https://github.com/symfony/polyfill"
-            }
-        },
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "Symfony\\Polyfill\\Php73\\": ""
-            },
-            "files": [
-                "bootstrap.php"
-            ],
-            "classmap": [
-                "Resources/stubs"
-            ]
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Nicolas Grekas",
-                "email": "p@tchwork.com"
-            },
-            {
-                "name": "Symfony Community",
-                "homepage": "https://symfony.com/contributors"
-            }
-        ],
-        "description": "Symfony polyfill backporting some PHP 7.3+ features to lower PHP versions",
-        "homepage": "https://symfony.com",
-        "keywords": [
-            "compatibility",
-            "polyfill",
-            "portable",
-            "shim"
-        ]
-    },
-    {
-        "name": "symfony/polyfill-php80",
-        "version": "v1.18.1",
-        "version_normalized": "1.18.1.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/symfony/polyfill-php80.git",
-            "reference": "d87d5766cbf48d72388a9f6b85f280c8ad51f981"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/d87d5766cbf48d72388a9f6b85f280c8ad51f981",
-            "reference": "d87d5766cbf48d72388a9f6b85f280c8ad51f981",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
-        },
-        "require": {
-            "php": ">=7.0.8"
-        },
-        "time": "2020-07-14T12:35:20+00:00",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "1.18-dev"
-            },
-            "thanks": {
-                "name": "symfony/polyfill",
-                "url": "https://github.com/symfony/polyfill"
-            }
-        },
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "Symfony\\Polyfill\\Php80\\": ""
-            },
-            "files": [
-                "bootstrap.php"
-            ],
-            "classmap": [
-                "Resources/stubs"
-            ]
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Ion Bazan",
-                "email": "ion.bazan@gmail.com"
-            },
-            {
-                "name": "Nicolas Grekas",
-                "email": "p@tchwork.com"
-            },
-            {
-                "name": "Symfony Community",
-                "homepage": "https://symfony.com/contributors"
-            }
-        ],
-        "description": "Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions",
-        "homepage": "https://symfony.com",
-        "keywords": [
-            "compatibility",
-            "polyfill",
-            "portable",
-            "shim"
-        ]
-    },
-    {
-        "name": "symfony/service-contracts",
-        "version": "v2.2.0",
-        "version_normalized": "2.2.0.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/symfony/service-contracts.git",
-            "reference": "d15da7ba4957ffb8f1747218be9e1a121fd298a1"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/symfony/service-contracts/zipball/d15da7ba4957ffb8f1747218be9e1a121fd298a1",
-            "reference": "d15da7ba4957ffb8f1747218be9e1a121fd298a1",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
-        },
-        "require": {
-            "php": ">=7.2.5",
-            "psr/container": "^1.0"
-        },
-        "suggest": {
-            "symfony/service-implementation": ""
-        },
-        "time": "2020-09-07T11:33:47+00:00",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "2.2-dev"
-            },
-            "thanks": {
-                "name": "symfony/contracts",
-                "url": "https://github.com/symfony/contracts"
-            }
-        },
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "Symfony\\Contracts\\Service\\": ""
-            }
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Nicolas Grekas",
-                "email": "p@tchwork.com"
-            },
-            {
-                "name": "Symfony Community",
-                "homepage": "https://symfony.com/contributors"
-            }
-        ],
-        "description": "Generic abstractions related to writing services",
-        "homepage": "https://symfony.com",
-        "keywords": [
-            "abstractions",
-            "contracts",
-            "decoupling",
-            "interfaces",
-            "interoperability",
-            "standards"
-        ]
-    },
-    {
-        "name": "symfony/string",
-        "version": "v5.1.5",
-        "version_normalized": "5.1.5.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/symfony/string.git",
-            "reference": "0de4cc1e18bb596226c06a82e2e7e9bc6001a63a"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/symfony/string/zipball/0de4cc1e18bb596226c06a82e2e7e9bc6001a63a",
-            "reference": "0de4cc1e18bb596226c06a82e2e7e9bc6001a63a",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
-        },
-        "require": {
-            "php": ">=7.2.5",
-            "symfony/polyfill-ctype": "~1.8",
-            "symfony/polyfill-intl-grapheme": "~1.0",
-            "symfony/polyfill-intl-normalizer": "~1.0",
-            "symfony/polyfill-mbstring": "~1.0",
-            "symfony/polyfill-php80": "~1.15"
-        },
-        "require-dev": {
-            "symfony/error-handler": "^4.4|^5.0",
-            "symfony/http-client": "^4.4|^5.0",
-            "symfony/translation-contracts": "^1.1|^2",
-            "symfony/var-exporter": "^4.4|^5.0"
-        },
-        "time": "2020-08-17T07:48:54+00:00",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "5.1-dev"
-            }
-        },
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "Symfony\\Component\\String\\": ""
-            },
-            "files": [
-                "Resources/functions.php"
-            ],
-            "exclude-from-classmap": [
-                "/Tests/"
-            ]
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Nicolas Grekas",
-                "email": "p@tchwork.com"
-            },
-            {
-                "name": "Symfony Community",
-                "homepage": "https://symfony.com/contributors"
-            }
-        ],
-        "description": "Symfony String component",
-        "homepage": "https://symfony.com",
-        "keywords": [
-            "grapheme",
-            "i18n",
-            "string",
-            "unicode",
-            "utf-8",
-            "utf8"
-        ]
-    },
-    {
         "name": "topthink/framework",
         "version": "v5.1.39",
         "version_normalized": "5.1.39.0",
@@ -1323,13 +333,7 @@
             "type": "zip",
             "url": "https://api.github.com/repos/top-think/framework/zipball/5762858f3d58faafb3a39427f8788884b2927007",
             "reference": "5762858f3d58faafb3a39427f8788884b2927007",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
+            "shasum": ""
         },
         "require": {
             "php": ">=5.6.0",
@@ -1382,13 +386,7 @@
             "type": "zip",
             "url": "https://api.github.com/repos/top-think/think-captcha/zipball/54c8a51552f99ff9ea89ea9c272383a8f738ceee",
             "reference": "54c8a51552f99ff9ea89ea9c272383a8f738ceee",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
+            "shasum": ""
         },
         "require": {
             "topthink/framework": "5.1.*"
@@ -1429,13 +427,7 @@
             "type": "zip",
             "url": "https://api.github.com/repos/top-think/think-helper/zipball/5f92178606c8ce131d36b37a57c58eb71e55f019",
             "reference": "5f92178606c8ce131d36b37a57c58eb71e55f019",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
+            "shasum": ""
         },
         "time": "2018-10-05T00:43:21+00:00",
         "type": "library",
@@ -1473,13 +465,7 @@
             "type": "zip",
             "url": "https://api.github.com/repos/top-think/think-installer/zipball/f5400a12c60e513911aef41fe443fa6920952675",
             "reference": "f5400a12c60e513911aef41fe443fa6920952675",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
+            "shasum": ""
         },
         "require": {
             "composer-plugin-api": "^1.0"
@@ -1522,13 +508,7 @@
             "type": "zip",
             "url": "https://api.github.com/repos/top-think/think-worker/zipball/922d8c95e2f095e0da66d18b9e3fbbfd8de70a3f",
             "reference": "922d8c95e2f095e0da66d18b9e3fbbfd8de70a3f",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
+            "shasum": ""
         },
         "require": {
             "ext-fileinfo": "*",
@@ -1580,13 +560,7 @@
             "type": "zip",
             "url": "https://api.github.com/repos/walkor/GatewayWorker/zipball/50d3a77deb7f7fb206d641ee0307ae1c41d5d41d",
             "reference": "50d3a77deb7f7fb206d641ee0307ae1c41d5d41d",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
+            "shasum": ""
         },
         "require": {
             "workerman/workerman": ">=3.5.0"
@@ -1622,13 +596,7 @@
             "type": "zip",
             "url": "https://api.github.com/repos/walkor/Workerman/zipball/b73ddc45b3c7299f330923a2bde23ca6e974fd96",
             "reference": "b73ddc45b3c7299f330923a2bde23ca6e974fd96",
-            "shasum": "",
-            "mirrors": [
-                {
-                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                    "preferred": true
-                }
-            ]
+            "shasum": ""
         },
         "require": {
             "php": ">=5.3"
@@ -1661,6 +629,49 @@
         "keywords": [
             "asynchronous",
             "event-loop"
+        ]
+    },
+    {
+        "name": "zoujingli/ip2region",
+        "version": "v1.0.8",
+        "version_normalized": "1.0.8.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/zoujingli/ip2region.git",
+            "reference": "d6be3ab9da1a1ab7e3cd51c4aa634a34de358ce6"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/zoujingli/ip2region/zipball/d6be3ab9da1a1ab7e3cd51c4aa634a34de358ce6",
+            "reference": "d6be3ab9da1a1ab7e3cd51c4aa634a34de358ce6",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3"
+        },
+        "time": "2020-07-06T05:33:26+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "classmap": [
+                "Ip2Region.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "authors": [
+            {
+                "name": "Anyon",
+                "email": "zoujingli@qq.com",
+                "homepage": "http://ctolog.com"
+            }
+        ],
+        "description": "Ip2Region for PHP",
+        "homepage": "https://github.com/zoujingli/Ip2Region",
+        "keywords": [
+            "Ip2Region"
         ]
     }
 ]

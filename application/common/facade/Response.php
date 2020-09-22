@@ -22,6 +22,6 @@ class Response extends Facade
      */
     protected static function getFacadeClass()
     {
-        return 'app\common\controller\Response';
+        return 'app\common\Response';
     }
 }

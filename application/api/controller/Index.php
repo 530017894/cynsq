@@ -3,7 +3,12 @@
 namespace app\api\controller;
 
 use think\Controller;
-use app\common\Nsq;
+//use app\common\Nsq;
+use app\admin\service\Es;
+use Ip2Region;
+use app\common\facade\Response;
+use Aknife\Agent\Agent;
+
 
 /**
  *
@@ -15,21 +20,46 @@ use app\common\Nsq;
  */
 class Index extends Controller
 {
-    public function index(){
-        $msg['project_name'] = "创享互动平台";
-        $msg['project_type'] = "web";
-        $msg['device_name'] = "android";
-        $msg['device_type'] = "华为p30";
-        $msg['source'] = "好友分享";
-        $msg['from'] = "";
-        $msg['to'] = "";
-        $msg['page'] = "首页";
-        $msg['event_name'] = "页面";
-        $msg['event_act'] = "浏览";
-        $msg['event_stay_time'] = 0;
-        $msg['user_id'] = "uxey21983";
-        $nsq = new Nsq();
-        $result = $nsq->publicToNsq(json_encode($msg));
+    public function collect(){
+        $timestamp = $this->request->post('timestamp');
+        $signature = $this->request->post('signature');
+//        if(!check_signature($timestamp,$signature)){
+//            return Response::fail('1001',"签名错误");
+//        }
+
+        $ip = $this->request->ip();
+        $ip2region = new Ip2Region();
+        $info = $ip2region->memorySearch('110.249.156.126');
+        $arae = explode('|',$info['region']);
+
+        Agent::lang('zh_cn');
+        $platform = Agent::platform();
+        $device = Agent::device();
+        //halt($this->request->header());
+        $projectid = substr($this->request->post('pointid'),0,4);
+        $pointid = substr($this->request->post('pointid'),-4);
+        $body = array();
+        $body['projectid'] = $projectid;
+        $body['pointid'] = $pointid;
+        $body['platform'] = $this->request->post('platform');
+        $body['expointid'] = $this->request->post('expointid');
+        $body['uuid'] = $this->request->post('uuid');
+
+        $body['province'] = $arae[2];
+        $body['city'] = $arae[3];
+        $body['device_name'] = $platform['name'];
+        $body['device_brand'] = isset($device['brand'])?$device['brand']:'';
+        $body['device_type'] = isset($device['name'])?$device['name']:'';
+        $body['device_version'] = $platform['version'];
+
+        //halt($body);
+
+        $result = Es::instance()->create($body);
+
+        return Response::success($result);
+
+
+
 
     }
 }

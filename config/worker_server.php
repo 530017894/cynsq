@@ -9,6 +9,7 @@
 // | Author: liu21st <liu21st@gmail.com>
 // +----------------------------------------------------------------------
 use think\facade\Env;
+use think\facade\Log;
 
 // +----------------------------------------------------------------------
 // | Workerman设置 仅对 php think worker:server 指令有效
@@ -24,13 +25,45 @@ return [
 
     // 支持workerman的所有配置参数
     'name'           => 'thinkphp',
-    'count'          => 4,
+    'count'          => 1,
     'daemonize'      => false,
     'pidFile'        => Env::get('runtime_path') . 'worker.pid',
 
     // 支持事件回调
     // onWorkerStart
     'onWorkerStart'  => function ($worker) {
+        \Workerman\Lib\Timer::add(20,function(){
+            try{
+                \app\api\controller\Essearch::search();
+            }catch (\Exception $e){
+                 Log::write($e->getMessage());
+            }
+
+        });
+        \Workerman\Lib\Timer::add(20,function(){
+            try{
+                \app\api\controller\Essearch::userlog();
+            }catch (Exception $e){
+                Log::write($e->getMessage());
+            }
+
+        });
+        \Workerman\Lib\Timer::add(20,function(){
+            try{
+                \app\api\controller\Essearch::areaacount();
+            }catch (Exception $e){
+                Log::write($e->getMessage());
+            }
+
+        });
+        \Workerman\Lib\Timer::add(20,function(){
+            try{
+                \app\api\controller\Essearch::deviceacount();
+            }catch (Exception $e){
+                Log::write($e->getMessage());
+            }
+
+        });
 
     },
     // onWorkerReload
